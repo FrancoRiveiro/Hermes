@@ -1,0 +1,52 @@
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\bin\Debug\BLL.dll
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\bin\Debug\BLL.pdb
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\bin\Debug\BE.dll
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\bin\Debug\DAL.dll
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\bin\Debug\BE.pdb
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\bin\Debug\DAL.pdb
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\obj\Debug\BLL.dll
+C:\Users\Juanpy\Documents\Extrar Aca\Proyecto  de DAS\TP Fianal De DAS\BLL\obj\Debug\BLL.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BLL.dll
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BLL.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BE.dll
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\DAL.dll
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BE.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\DAL.pdb
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.dll
+C:\Users\agust\Source\Repos\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.pdb
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.dll
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.pdb
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BLL.dll
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BLL.pdb
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BE.dll
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\DAL.dll
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BE.pdb
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\DAL.pdb
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\Seguridad.dll
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\MPP.dll
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\Seguridad.pdb
+C:\Users\Juanpy\Documents\D-A-S\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\MPP.pdb
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BLL.dll
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BLL.pdb
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BE.dll
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\DAL.dll
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\Seguridad.dll
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\MPP.dll
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\BE.pdb
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\DAL.pdb
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\Seguridad.pdb
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\bin\Debug\MPP.pdb
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.dll
+E:\TP_DAS_Hermes\TP Final De DAS\BLL\obj\Debug\BLL.pdb
