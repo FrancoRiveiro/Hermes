@@ -71,6 +71,7 @@
                 catalogo = new frCatalogo(bllUsuario.UsuarioActual());
                 catalogo.FormClosed += new FormClosedEventHandler(cerrarForms);
                 catalogo.MdiParent = this;
+                catalogo.WindowState = FormWindowState.Maximized;
                 catalogo.Show(); 
             }
             void cerrarForms(object sender, FormClosedEventArgs e)
@@ -89,6 +90,7 @@
             {
                 gestionViajes = new frGestionViajes();
                 gestionViajes.MdiParent = this;
+                gestionViajes.WindowState = FormWindowState.Maximized;
                 gestionViajes.Show();
             }
 
@@ -96,6 +98,7 @@
             {
                 gestionEmpresa = new frGestionEmpresa();
                 gestionEmpresa.MdiParent = this;
+                gestionEmpresa.WindowState = FormWindowState.Maximized;
                 gestionEmpresa.Show();
             }
 
@@ -103,6 +106,7 @@
         {
             gestionarCliente = new frGestionUsuario();
             gestionarCliente.MdiParent = this;
+            gestionarCliente.WindowState = FormWindowState.Maximized;
             gestionarCliente.Show();
         }
     }
