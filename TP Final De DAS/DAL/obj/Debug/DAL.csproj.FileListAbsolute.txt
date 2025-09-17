@@ -38,3 +38,14 @@ E:\TP_DAS_Hermes\TP Final De DAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cach
 E:\TP_DAS_Hermes\TP Final De DAS\DAL\obj\Debug\DAL.csproj.Up2Date
 E:\TP_DAS_Hermes\TP Final De DAS\DAL\obj\Debug\DAL.dll
 E:\TP_DAS_Hermes\TP Final De DAS\DAL\obj\Debug\DAL.pdb
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\bin\Debug\DAL.dll
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\bin\Debug\DAL.pdb
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\bin\Debug\BE.dll
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\bin\Debug\MPP.dll
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\bin\Debug\BE.pdb
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\bin\Debug\MPP.pdb
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\obj\Debug\DAL.dll
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\DAL\obj\Debug\DAL.pdb

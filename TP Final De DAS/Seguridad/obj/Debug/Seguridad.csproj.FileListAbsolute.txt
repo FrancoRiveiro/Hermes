@@ -16,3 +16,12 @@ E:\TP_DAS_Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.csproj.CoreCompil
 E:\TP_DAS_Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.csproj.Up2Date
 E:\TP_DAS_Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.dll
 E:\TP_DAS_Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.pdb
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\bin\Debug\Seguridad.dll
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\bin\Debug\Seguridad.pdb
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\bin\Debug\BE.dll
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\bin\Debug\BE.pdb
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.csproj.AssemblyReference.cache
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.csproj.Up2Date
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.dll
+C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.pdb

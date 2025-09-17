@@ -31,8 +31,8 @@
             this.btnEliminar = new System.Windows.Forms.Button();
             this.btnModificar = new System.Windows.Forms.Button();
             this.btnAlta = new System.Windows.Forms.Button();
-            this.dgvEmpresasInv = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvEmpresasInv)).BeginInit();
+            this.dgvEmpresas = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvEmpresas)).BeginInit();
             this.SuspendLayout();
             // 
             // btnEliminar
@@ -64,17 +64,18 @@
             this.btnAlta.TabIndex = 5;
             this.btnAlta.Text = "Agregar";
             this.btnAlta.UseVisualStyleBackColor = true;
+            this.btnAlta.Click += new System.EventHandler(this.btnAlta_Click);
             // 
-            // dgvEmpresasInv
+            // dgvEmpresas
             // 
-            this.dgvEmpresasInv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvEmpresasInv.Location = new System.Drawing.Point(29, 24);
-            this.dgvEmpresasInv.Margin = new System.Windows.Forms.Padding(2);
-            this.dgvEmpresasInv.Name = "dgvEmpresasInv";
-            this.dgvEmpresasInv.RowHeadersWidth = 62;
-            this.dgvEmpresasInv.RowTemplate.Height = 28;
-            this.dgvEmpresasInv.Size = new System.Drawing.Size(482, 253);
-            this.dgvEmpresasInv.TabIndex = 4;
+            this.dgvEmpresas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvEmpresas.Location = new System.Drawing.Point(29, 26);
+            this.dgvEmpresas.Margin = new System.Windows.Forms.Padding(2);
+            this.dgvEmpresas.Name = "dgvEmpresas";
+            this.dgvEmpresas.RowHeadersWidth = 62;
+            this.dgvEmpresas.RowTemplate.Height = 28;
+            this.dgvEmpresas.Size = new System.Drawing.Size(482, 253);
+            this.dgvEmpresas.TabIndex = 4;
             // 
             // frGestionEmpresa
             // 
@@ -84,10 +85,10 @@
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.btnModificar);
             this.Controls.Add(this.btnAlta);
-            this.Controls.Add(this.dgvEmpresasInv);
+            this.Controls.Add(this.dgvEmpresas);
             this.Name = "frGestionEmpresa";
             this.Text = "frGestionEmpresa";
-            ((System.ComponentModel.ISupportInitialize)(this.dgvEmpresasInv)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvEmpresas)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -97,6 +98,6 @@
         private System.Windows.Forms.Button btnEliminar;
         private System.Windows.Forms.Button btnModificar;
         private System.Windows.Forms.Button btnAlta;
-        private System.Windows.Forms.DataGridView dgvEmpresasInv;
+        private System.Windows.Forms.DataGridView dgvEmpresas;
     }
 }

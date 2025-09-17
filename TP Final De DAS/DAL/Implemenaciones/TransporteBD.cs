@@ -1,5 +1,6 @@
 ﻿using BE;
 using DAL.Interfaces;
+using MPP.Mapers;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -20,22 +21,82 @@ namespace DAL.Implemenaciones
         }
         public void Agrear(BE_Transporte entidad)
         {
-            throw new NotImplementedException();
+        string query = "INSERT INTO Transporte (Nombre, Cupos, km) VALUES (@Nombre , @Cupos, @km)";
+
+            using (SqlConnection con = new SqlConnection(connectionString)) 
+            {
+                using (SqlCommand comm = new SqlCommand(query, con)) 
+                {
+                TransporteMPP.ToSqlParameters(comm , entidad);              
+                    con.Open();
+                    comm.ExecuteNonQuery();
+
+                }
+            }
+        
         }
 
         public void Eliminar(BE_Transporte id)
         {
-            throw new NotImplementedException();
+            string query = "DELETE FROM Transporte WHERE IdTransporte = @IDTransporte";
+
+            using (SqlConnection con = new SqlConnection(connectionString)) 
+            {
+                using (SqlCommand comm = new SqlCommand(query,con )) 
+                {
+                    comm.Parameters.AddWithValue("@IDTransporte", id.IdTransporte);
+                    con.Open();
+                    comm.ExecuteNonQuery();
+
+                }
+            }
         }
 
         public IEnumerable<BE_Transporte> listar()
         {
-            throw new NotImplementedException();
+            List<BE_Transporte> transportes = new List<BE_Transporte>();
+
+            string QUERY = "SELECT * FROM Transporte";
+
+            using (SqlConnection con = new SqlConnection(connectionString))
+
+            {
+
+                using (SqlCommand comm = new SqlCommand(QUERY, con))
+                {
+                    con.Open();
+                    using (SqlDataReader reader = comm.ExecuteReader())
+                    {
+
+                        while (reader.Read())
+                        {
+                            transportes.Add(TransporteMPP.FromSqlReader(reader));
+
+                        }
+                    }
+                }
+            }
+
+            return transportes; 
         }
 
         public void Modificar(BE_Transporte entidad, params object[] datos)
         {
-            throw new NotImplementedException();
+            string query = "UPDATE Transporte SET Nombre = @Nombre , Cupos = @Cupos , km = @km WHERE IdTransporte = @IDTranposte";
+
+            using (SqlConnection con = new SqlConnection(connectionString)) 
+            {
+                using (SqlCommand comm = new SqlCommand(query, con)) 
+                {
+                   TransporteMPP.ToSqlParameters(comm, entidad);
+                    con.Open();
+                    comm.ExecuteNonQuery();
+
+                }
+            
+            }
+
+
         }
     }
 }
