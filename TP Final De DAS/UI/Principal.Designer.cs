@@ -28,108 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.inicioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.empresaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.gestionarEmpresaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.viajesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.usuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.gestionarUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.pToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.loginToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.logoutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.imgLogo = new System.Windows.Forms.PictureBox();
-            this.menuStrip1.SuspendLayout();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.loginBTN = new System.Windows.Forms.Button();
+            this.usuarioBTN = new System.Windows.Forms.Button();
+            this.viajesBTN = new System.Windows.Forms.Button();
+            this.empresaBTN = new System.Windows.Forms.Button();
+            this.catalogoBTN = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.imgLogo)).BeginInit();
+            this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.inicioToolStripMenuItem,
-            this.empresaToolStripMenuItem,
-            this.viajesToolStripMenuItem,
-            this.usuariosToolStripMenuItem,
-            this.pToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
-            this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // inicioToolStripMenuItem
-            // 
-            this.inicioToolStripMenuItem.Name = "inicioToolStripMenuItem";
-            this.inicioToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
-            this.inicioToolStripMenuItem.Text = "Catalogo";
-            this.inicioToolStripMenuItem.Click += new System.EventHandler(this.inicioToolStripMenuItem_Click);
-            // 
-            // empresaToolStripMenuItem
-            // 
-            this.empresaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.gestionarEmpresaToolStripMenuItem1});
-            this.empresaToolStripMenuItem.Name = "empresaToolStripMenuItem";
-            this.empresaToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
-            this.empresaToolStripMenuItem.Text = "Empresa";
-            // 
-            // gestionarEmpresaToolStripMenuItem1
-            // 
-            this.gestionarEmpresaToolStripMenuItem1.Name = "gestionarEmpresaToolStripMenuItem1";
-            this.gestionarEmpresaToolStripMenuItem1.Size = new System.Drawing.Size(124, 22);
-            this.gestionarEmpresaToolStripMenuItem1.Text = "Gestionar";
-            this.gestionarEmpresaToolStripMenuItem1.Click += new System.EventHandler(this.gestionarEmpresaToolStripMenuItem1_Click);
-            // 
-            // viajesToolStripMenuItem
-            // 
-            this.viajesToolStripMenuItem.Name = "viajesToolStripMenuItem";
-            this.viajesToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
-            this.viajesToolStripMenuItem.Text = "Viajes";
-            this.viajesToolStripMenuItem.Click += new System.EventHandler(this.viajesToolStripMenuItem_Click);
-            // 
-            // usuariosToolStripMenuItem
-            // 
-            this.usuariosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.gestionarUsuarioToolStripMenuItem});
-            this.usuariosToolStripMenuItem.Name = "usuariosToolStripMenuItem";
-            this.usuariosToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
-            this.usuariosToolStripMenuItem.Text = "Usuarios";
-            // 
-            // gestionarUsuarioToolStripMenuItem
-            // 
-            this.gestionarUsuarioToolStripMenuItem.Name = "gestionarUsuarioToolStripMenuItem";
-            this.gestionarUsuarioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.gestionarUsuarioToolStripMenuItem.Text = "Gestionar";
-            this.gestionarUsuarioToolStripMenuItem.Click += new System.EventHandler(this.gestionarUsuarioToolStripMenuItem_Click);
-            // 
-            // pToolStripMenuItem
-            // 
-            this.pToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
-            this.pToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.loginToolStripMenuItem,
-            this.logoutToolStripMenuItem});
-            this.pToolStripMenuItem.Name = "pToolStripMenuItem";
-            this.pToolStripMenuItem.Padding = new System.Windows.Forms.Padding(4, 0, 12, 0);
-            this.pToolStripMenuItem.Size = new System.Drawing.Size(54, 20);
-            this.pToolStripMenuItem.Text = "Perfil";
-            // 
-            // loginToolStripMenuItem
-            // 
-            this.loginToolStripMenuItem.Name = "loginToolStripMenuItem";
-            this.loginToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
-            this.loginToolStripMenuItem.Text = "Login";
-            this.loginToolStripMenuItem.Click += new System.EventHandler(this.loginToolStripMenuItem_Click);
-            // 
-            // logoutToolStripMenuItem
-            // 
-            this.logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
-            this.logoutToolStripMenuItem.Text = "Logout";
             // 
             // imgLogo
             // 
             this.imgLogo.Image = global::UI.Properties.Resources.imgLogo;
             this.imgLogo.ImageLocation = "";
-            this.imgLogo.Location = new System.Drawing.Point(703, 358);
+            this.imgLogo.Location = new System.Drawing.Point(0, -1);
             this.imgLogo.MaximumSize = new System.Drawing.Size(500, 500);
             this.imgLogo.Name = "imgLogo";
             this.imgLogo.Size = new System.Drawing.Size(97, 93);
@@ -137,39 +53,118 @@
             this.imgLogo.TabIndex = 2;
             this.imgLogo.TabStop = false;
             // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.LemonChiffon;
+            this.panel1.Controls.Add(this.loginBTN);
+            this.panel1.Controls.Add(this.usuarioBTN);
+            this.panel1.Controls.Add(this.viajesBTN);
+            this.panel1.Controls.Add(this.empresaBTN);
+            this.panel1.Controls.Add(this.catalogoBTN);
+            this.panel1.Controls.Add(this.panel2);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(200, 749);
+            this.panel1.TabIndex = 4;
+            // 
+            // loginBTN
+            // 
+            this.loginBTN.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.loginBTN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.loginBTN.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.loginBTN.Location = new System.Drawing.Point(0, 704);
+            this.loginBTN.Name = "loginBTN";
+            this.loginBTN.Size = new System.Drawing.Size(200, 45);
+            this.loginBTN.TabIndex = 9;
+            this.loginBTN.Text = "Login";
+            this.loginBTN.UseVisualStyleBackColor = true;
+            // 
+            // usuarioBTN
+            // 
+            this.usuarioBTN.Dock = System.Windows.Forms.DockStyle.Top;
+            this.usuarioBTN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.usuarioBTN.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.usuarioBTN.Location = new System.Drawing.Point(0, 227);
+            this.usuarioBTN.Name = "usuarioBTN";
+            this.usuarioBTN.Size = new System.Drawing.Size(200, 45);
+            this.usuarioBTN.TabIndex = 8;
+            this.usuarioBTN.Text = "Usuarios";
+            this.usuarioBTN.UseVisualStyleBackColor = true;
+            // 
+            // viajesBTN
+            // 
+            this.viajesBTN.Dock = System.Windows.Forms.DockStyle.Top;
+            this.viajesBTN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.viajesBTN.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.viajesBTN.Location = new System.Drawing.Point(0, 182);
+            this.viajesBTN.Name = "viajesBTN";
+            this.viajesBTN.Size = new System.Drawing.Size(200, 45);
+            this.viajesBTN.TabIndex = 7;
+            this.viajesBTN.Text = "Viajes";
+            this.viajesBTN.UseVisualStyleBackColor = true;
+            // 
+            // empresaBTN
+            // 
+            this.empresaBTN.Dock = System.Windows.Forms.DockStyle.Top;
+            this.empresaBTN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.empresaBTN.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.empresaBTN.Location = new System.Drawing.Point(0, 137);
+            this.empresaBTN.Name = "empresaBTN";
+            this.empresaBTN.Size = new System.Drawing.Size(200, 45);
+            this.empresaBTN.TabIndex = 6;
+            this.empresaBTN.Text = "Empresa";
+            this.empresaBTN.UseVisualStyleBackColor = true;
+            // 
+            // catalogoBTN
+            // 
+            this.catalogoBTN.Dock = System.Windows.Forms.DockStyle.Top;
+            this.catalogoBTN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.catalogoBTN.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.catalogoBTN.Location = new System.Drawing.Point(0, 92);
+            this.catalogoBTN.Name = "catalogoBTN";
+            this.catalogoBTN.Size = new System.Drawing.Size(200, 45);
+            this.catalogoBTN.TabIndex = 5;
+            this.catalogoBTN.Text = "Catalogo";
+            this.catalogoBTN.UseVisualStyleBackColor = true;
+            this.catalogoBTN.Click += new System.EventHandler(this.catalogoBTN_Click);
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.LemonChiffon;
+            this.panel2.Controls.Add(this.imgLogo);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(200, 92);
+            this.panel2.TabIndex = 5;
+            // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.imgLogo);
-            this.Controls.Add(this.menuStrip1);
+            this.ClientSize = new System.Drawing.Size(1254, 749);
+            this.Controls.Add(this.panel1);
             this.IsMdiContainer = true;
-            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Principal";
             this.Text = "Transportes Hermes";
             this.Load += new System.EventHandler(this.Principal_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.imgLogo)).EndInit();
+            this.panel1.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem inicioToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem empresaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem viajesToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem usuariosToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem pToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem loginToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem logoutToolStripMenuItem;
         private System.Windows.Forms.PictureBox imgLogo;
-        private System.Windows.Forms.ToolStripMenuItem gestionarUsuarioToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem gestionarEmpresaToolStripMenuItem1;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button catalogoBTN;
+        private System.Windows.Forms.Button loginBTN;
+        private System.Windows.Forms.Button usuarioBTN;
+        private System.Windows.Forms.Button viajesBTN;
+        private System.Windows.Forms.Button empresaBTN;
     }
 }
 
