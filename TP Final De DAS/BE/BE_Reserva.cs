@@ -8,14 +8,20 @@ namespace BE
 {
     public class BE_Reserva
     {
-        public BE_Reserva(int id, int cupos, BE_Cliente cli, BE_Viaje viaje)
+        public BE_Reserva(int cupos, BE_Cliente cli, BE_Viaje viaje)
         {
-            this.idReserva = id;
+            
             this.Cupos = cupos;
             this.Cliente = cli;
             this.ViajeReservado = viaje;
             this.CostoTotal = (viaje != null ? viaje.CalcularCostoTotal() : 0) * cupos;
 
+        }
+
+
+        public BE_Reserva(int id)
+        {
+            this.idReserva = id;
         }
         private int idReserva;
 

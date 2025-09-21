@@ -13,5 +13,9 @@ namespace BE
 
            
         }
+        public BE_Cliente(int id)
+        {
+            this.IdUsuario = id;
+        }
     }
 }

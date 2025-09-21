@@ -14,6 +14,10 @@ namespace BE
             Cupos = cupos;
             this.ValorKM = km;
         }
+        public BE_Transporte(int id)
+        {
+            this.IdTransporte = id;
+        }
 
         private int _idTransporte;
 

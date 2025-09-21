@@ -48,5 +48,9 @@ namespace BE
             this.CodPostal = codPos;
             this.Direccion = direccion;
         }
+        public BE_Empresa(int id)
+        {
+            this.IDEmpresa = id;
+        }
     }
 }

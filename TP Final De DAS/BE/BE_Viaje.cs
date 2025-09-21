@@ -8,9 +8,9 @@ namespace BE
 {
     public  class BE_Viaje
     {
-        public BE_Viaje(int id, string dest, DateTime salida, DateTime retorno, BE_Empresa emp, BE_Transporte transp, int km)
+        public BE_Viaje(string dest, DateTime salida, DateTime retorno, BE_Empresa emp, BE_Transporte transp, int km)
         {
-            this.IDViaje = id;
+           
             this.Destino = dest;
             this.FechaSalida = salida;
             this.FechaRetorno = retorno;
@@ -19,6 +19,11 @@ namespace BE
             this.CuposTotales = transp.Cupos;
             this.KM = km;
             this.Costo = this.CalcularCostoTotal();
+        }
+
+        public BE_Viaje(int id)
+        {
+            this.IDViaje = id;
         }
 
         //propiedades

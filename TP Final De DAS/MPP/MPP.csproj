@@ -42,8 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Mapers\EmpresaMPP.cs" />
+    <Compile Include="Mapers\ReservaMPP.cs" />
     <Compile Include="Mapers\TransporteMPP.cs" />
     <Compile Include="Mapers\UsuarioMPP.cs" />
+    <Compile Include="Mapers\ViajeMPP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
