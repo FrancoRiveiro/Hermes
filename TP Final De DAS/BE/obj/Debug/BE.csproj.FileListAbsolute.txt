@@ -28,3 +28,9 @@ C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\BE\obj\Debug\BE.csproj.As
 C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\BE\obj\Debug\BE.dll
 C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\BE\obj\Debug\BE.pdb
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\BE\bin\Debug\BE.dll
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\BE\bin\Debug\BE.pdb
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\BE\obj\Debug\BE.dll
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\BE\obj\Debug\BE.pdb

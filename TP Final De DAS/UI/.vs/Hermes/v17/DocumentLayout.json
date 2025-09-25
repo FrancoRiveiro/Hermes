@@ -3,34 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F91D52D6-8E93-49EA-8DF0-874C62C3EC0D}|..\\MPP\\MPP.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\mpp\\mapers\\empresampp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F91D52D6-8E93-49EA-8DF0-874C62C3EC0D}|..\\MPP\\MPP.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\mpp\\mapers\\reservampp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F91D52D6-8E93-49EA-8DF0-874C62C3EC0D}|..\\MPP\\MPP.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\mpp\\mapers\\transportempp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F91D52D6-8E93-49EA-8DF0-874C62C3EC0D}|..\\MPP\\MPP.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\mpp\\mapers\\viajempp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F91D52D6-8E93-49EA-8DF0-874C62C3EC0D}|..\\MPP\\MPP.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\mpp\\mapers\\usuariompp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E212048F-D39E-42F9-AC25-DBF122385EC6}|..\\BE\\BE.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\be\\be_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E212048F-D39E-42F9-AC25-DBF122385EC6}|..\\BE\\BE.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\be\\be_transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E212048F-D39E-42F9-AC25-DBF122385EC6}|..\\BE\\BE.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\be\\be_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32D0ECEA-059D-4EF5-BE15-A496F4B089F8}|..\\BLL\\BLL.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\bll\\bll_reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E212048F-D39E-42F9-AC25-DBF122385EC6}|..\\BE\\BE.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\be\\be_reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E212048F-D39E-42F9-AC25-DBF122385EC6}|..\\BE\\BE.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\be\\be_viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F1F63C0-0495-430A-9703-23EEDC7A06B6}|..\\DAL\\DAL.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\dal\\implemenaciones\\reservabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D0ECEA-059D-4EF5-BE15-A496F4B089F8}|..\\BLL\\BLL.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\bll\\bll_transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D0ECEA-059D-4EF5-BE15-A496F4B089F8}|..\\BLL\\BLL.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\bll\\bll_viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D0ECEA-059D-4EF5-BE15-A496F4B089F8}|..\\BLL\\BLL.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\bll\\bll_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E212048F-D39E-42F9-AC25-DBF122385EC6}|..\\BE\\BE.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\be\\be_transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D52D6-8E93-49EA-8DF0-874C62C3EC0D}|..\\MPP\\MPP.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\mpp\\mapers\\viajempp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91D52D6-8E93-49EA-8DF0-874C62C3EC0D}|..\\MPP\\MPP.csproj|c:\\users\\franco\\desktop\\facu\\das\\hermes\\tp final de das\\mpp\\mapers\\empresampp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\MPP\\Mapers\\TransporteMPP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -178,20 +175,76 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 328,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BE_Empresa.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Empresa.cs",
-              "RelativeDocumentMoniker": "..\\BE\\BE_Empresa.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Empresa.cs",
-              "RelativeToolTip": "..\\BE\\BE_Empresa.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BLL_Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BLL\\BLL_Reserva.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\BLL_Reserva.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BLL\\BLL_Reserva.cs",
+              "RelativeToolTip": "..\\BLL\\BLL_Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T01:51:42.941Z",
+              "WhenOpened": "2025-09-25T02:13:57.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BE_Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Reserva.cs",
+              "RelativeDocumentMoniker": "..\\BE\\BE_Reserva.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Reserva.cs",
+              "RelativeToolTip": "..\\BE\\BE_Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:01:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLL_Transporte.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BLL\\BLL_Transporte.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\BLL_Transporte.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BLL\\BLL_Transporte.cs",
+              "RelativeToolTip": "..\\BLL\\BLL_Transporte.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:08:56.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BLL_Viaje.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BLL\\BLL_Viaje.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\BLL_Viaje.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BLL\\BLL_Viaje.cs",
+              "RelativeToolTip": "..\\BLL\\BLL_Viaje.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:20:32.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservaBD.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\ReservaBD.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Implemenaciones\\ReservaBD.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\ReservaBD.cs",
+              "RelativeToolTip": "..\\DAL\\Implemenaciones\\ReservaBD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:05:20.912Z",
               "EditorCaption": ""
             },
             {
@@ -210,88 +263,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BE_Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Cliente.cs",
-              "RelativeDocumentMoniker": "..\\BE\\BE_Cliente.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Cliente.cs",
-              "RelativeToolTip": "..\\BE\\BE_Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T01:50:32.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioMPP.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\UsuarioMPP.cs",
-              "RelativeDocumentMoniker": "..\\MPP\\Mapers\\UsuarioMPP.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\UsuarioMPP.cs",
-              "RelativeToolTip": "..\\MPP\\Mapers\\UsuarioMPP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T01:01:35.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransporteMPP.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\TransporteMPP.cs",
-              "RelativeDocumentMoniker": "..\\MPP\\Mapers\\TransporteMPP.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\TransporteMPP.cs",
-              "RelativeToolTip": "..\\MPP\\Mapers\\TransporteMPP.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T01:01:33.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BE_Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Reserva.cs",
-              "RelativeDocumentMoniker": "..\\BE\\BE_Reserva.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Reserva.cs",
-              "RelativeToolTip": "..\\BE\\BE_Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T01:01:23.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReservaMPP.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\ReservaMPP.cs",
-              "RelativeDocumentMoniker": "..\\MPP\\Mapers\\ReservaMPP.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\ReservaMPP.cs",
-              "RelativeToolTip": "..\\MPP\\Mapers\\ReservaMPP.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T00:57:52.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BE_Viaje.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Viaje.cs",
-              "RelativeDocumentMoniker": "..\\BE\\BE_Viaje.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BE\\BE_Viaje.cs",
-              "RelativeToolTip": "..\\BE\\BE_Viaje.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T00:14:55.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ViajeMPP.cs",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\ViajeMPP.cs",
               "RelativeDocumentMoniker": "..\\MPP\\Mapers\\ViajeMPP.cs",
@@ -299,25 +270,23 @@
               "RelativeToolTip": "..\\MPP\\Mapers\\ViajeMPP.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T23:34:00.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T23:34:00.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "EmpresaMPP.cs",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\EmpresaMPP.cs",
               "RelativeDocumentMoniker": "..\\MPP\\Mapers\\EmpresaMPP.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\EmpresaMPP.cs",
-              "RelativeToolTip": "..\\MPP\\Mapers\\EmpresaMPP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\MPP\\Mapers\\EmpresaMPP.cs*",
+              "RelativeToolTip": "..\\MPP\\Mapers\\EmpresaMPP.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T23:33:27.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T23:33:27.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "EmpresaBD.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\EmpresaBD.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\EmpresaBD.cs",
@@ -328,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "frGestorEmpresa.cs",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frGestorEmpresa.cs",
               "RelativeDocumentMoniker": "frGestorEmpresa.cs",
@@ -340,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "frGestorEmpresa.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frGestorEmpresa.cs",
               "RelativeDocumentMoniker": "frGestorEmpresa.cs",
@@ -351,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "frGestionEmpresa.cs",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frGestionEmpresa.cs",
               "RelativeDocumentMoniker": "frGestionEmpresa.cs",
@@ -363,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "BLL_Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\BLL\\BLL_Usuario.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\BLL\\BLL_Usuario.cs",
@@ -375,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "TransporteMPP.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\MPP\\Mapers\\TransporteMPP.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\MPP\\Mapers\\TransporteMPP.cs",
@@ -386,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "ReservaBD.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\ReservaBD.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\ReservaBD.cs",
@@ -398,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "EmpresaMPP.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\MPP\\Mapers\\EmpresaMPP.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\MPP\\Mapers\\EmpresaMPP.cs",
@@ -410,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "UsuarioBD.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\UsuarioBD.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\UsuarioBD.cs",
@@ -422,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "TransporteBD.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\TransporteBD.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\TransporteBD.cs",
@@ -434,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "BE_Viaje.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Viaje.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Viaje.cs",
@@ -444,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "TransporteBD.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\TransporteBD.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\TransporteBD.cs",
@@ -454,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "UsuarioBD.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\UsuarioBD.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\UsuarioBD.cs",
@@ -463,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "BLL_Usuario.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BLL\\BLL_Usuario.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BLL\\BLL_Usuario.cs",
@@ -473,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Principal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\Principal.cs",
               "RelativeDocumentMoniker": "Principal.cs",
@@ -483,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Principal.cs",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\Principal.cs",
               "RelativeDocumentMoniker": "Principal.cs",
@@ -495,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "BE_Empresa.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Empresa.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Empresa.cs",
@@ -505,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Class1.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Class1.cs",
@@ -515,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "SesionManagger.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\Seguridad\\SesionManagger.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\Seguridad\\SesionManagger.cs",
@@ -525,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "IABM.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Interfaces\\IABM.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Interfaces\\IABM.cs",
@@ -535,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "IListar.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Interfaces\\IListar.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Interfaces\\IListar.cs",
@@ -545,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "BE_Reserva.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Reserva.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Reserva.cs",
@@ -555,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "BE_Usuario.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Usuario.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Usuario.cs",
@@ -565,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "BE_Administrador.cs",
               "DocumentMoniker": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Administrador.cs",
               "ToolTip": "E:\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Administrador.cs",
@@ -575,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\CrearAdmins\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\CrearAdmins\\Program.cs",
@@ -587,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "frGestionUsuario.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frGestionUsuario.cs",
               "RelativeDocumentMoniker": "frGestionUsuario.cs",
@@ -598,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "frLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frLogin.cs",
               "RelativeDocumentMoniker": "frLogin.cs",
@@ -608,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "frCatalogo.cs",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frCatalogo.cs",
               "RelativeDocumentMoniker": "frCatalogo.cs",
@@ -620,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "frRegistro.cs",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frRegistro.cs",
               "RelativeDocumentMoniker": "frRegistro.cs",
@@ -632,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Principal.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\Principal.Designer.cs",
               "RelativeDocumentMoniker": "Principal.Designer.cs",
@@ -644,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "frCatalogo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frCatalogo.cs",
               "RelativeDocumentMoniker": "frCatalogo.cs",
@@ -655,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "frLogin.cs",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frLogin.cs",
               "RelativeDocumentMoniker": "frLogin.cs",
@@ -667,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "TransporteBD.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\TransporteBD.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\TransporteBD.cs",
@@ -679,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "ViajeBD.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\ViajeBD.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\ViajeBD.cs",
@@ -691,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "EmpresaBD.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\EmpresaBD.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\EmpresaBD.cs",
@@ -703,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "ReservaBD.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\ReservaBD.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\DAL\\Implemenaciones\\ReservaBD.cs",
@@ -715,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "BE_Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Cliente.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Cliente.cs",
@@ -727,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "BE_Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Usuario.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Usuario.cs",
@@ -739,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "frRegistro.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\UI\\frRegistro.cs",
               "RelativeDocumentMoniker": "frRegistro.cs",
@@ -750,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "Contrase\u00F1aHasher.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\Seguridad\\Contrase\u00F1aHasher.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\Seguridad\\Contrase\u00F1aHasher.cs",
@@ -762,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "BE_Viaje.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Viaje.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Viaje.cs",
@@ -774,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "BE_Transporte.cs",
               "DocumentMoniker": "C:\\Users\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Transporte.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Juanpy\\Documents\\D-A-S\\TP_DAS_Hermes\\TP Final De DAS\\BE\\BE_Transporte.cs",
@@ -783,6 +752,25 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T01:35:53.415Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLL_Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BLL\\BLL_Empresa.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\BLL_Empresa.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\Facu\\DAS\\Hermes\\TP Final De DAS\\BLL\\BLL_Empresa.cs",
+              "RelativeToolTip": "..\\BLL\\BLL_Empresa.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:24:25.586Z",
+              "EditorCaption": ""
             }
           ]
         }

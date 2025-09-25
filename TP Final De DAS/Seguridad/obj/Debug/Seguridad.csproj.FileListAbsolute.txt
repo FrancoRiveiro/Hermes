@@ -25,3 +25,12 @@ C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\obj\Debug\Segur
 C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.csproj.Up2Date
 C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.dll
 C:\Users\Juanpy\Documents\D-A-S\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.pdb
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\Seguridad\bin\Debug\Seguridad.dll
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\Seguridad\bin\Debug\Seguridad.pdb
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\Seguridad\bin\Debug\BE.dll
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\Seguridad\bin\Debug\BE.pdb
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.csproj.Up2Date
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.dll
+C:\Users\Franco\Desktop\Facu\DAS\Hermes\TP Final De DAS\Seguridad\obj\Debug\Seguridad.pdb
